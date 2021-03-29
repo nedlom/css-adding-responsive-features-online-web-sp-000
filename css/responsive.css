@@ -62,7 +62,8 @@
   
   .col-1 {
     width: 100%;
-    left-margin
+    margin-left: 0;
+    float: none;
   }
   
   .col-2 {
