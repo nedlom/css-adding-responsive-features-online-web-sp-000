@@ -42,5 +42,9 @@
   }
 }
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 750px){
+  
+  #navebar nav a {
+    
+  }
 }
